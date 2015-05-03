@@ -4,12 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Sou um estudante de engenharia elétrica de Manaus, Amazonas. Gosto de experimentar com tudo relacionado a tecnologia, mesmo que isso signifique deixar uma trilha de coisas desmontadas.
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[bernardo@conductive.me](mailto:bernardo@conductive.me)
