@@ -18,11 +18,11 @@ avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/je
 # Includes an icon in the footer for each username you enter
 footer-links:
   email:bernardo@conductive.me
-  github: bernardowilson/
-  instagram: beernardowilson/
+  github: bernardowilson
+  instagram: beernardowilson
   pinterest:
   rss: # just type anything here for a working RSS icon, make sure you set the "url" above!
-  twitter: bernardowilson
+  twitter: lastmason
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
