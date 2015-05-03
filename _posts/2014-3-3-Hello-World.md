@@ -1,10 +1,13 @@
 ---
 layout: post
-title: You're up and running!
+title: "I'm up and running (again)!"
+published: true
 ---
 
-Next you can update your site name, avatar and other options using the _config.yml file in the root of your repository (shown below).
+Agora eu (re)montei meu blog nessa página do github, usando o Jekyll.
 
-![_config.yml]({{ site.baseurl }}/images/config.png)
+Tempos interessantes vêm por aí, com projetos novos, a volta de alguns antigos e a publicação de muito código novo. 
 
-The easiest way to make your first post is to edit this one. Go into /_posts/ and update the Hello World markdown file. For more instructions head over to the [Jekyll Now repository](https://github.com/barryclark/jekyll-now) on GitHub.
+Vou começar publicando uma nova livraria para arduino, a DCMotorBotPWM: uma livraria simples para controle de H-bridges com controle de velocidade.
+
+[DCMotorBotPWM](https://github.com/bernardowilson/DCMotorBotPWM)
